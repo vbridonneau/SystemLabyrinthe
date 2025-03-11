@@ -14,7 +14,7 @@ La différence avec la résolution à une entrée est que pour arriver à résou
 L'objectif est de résoudre une instance de labyrinthe.
 
 0. écrire un programme qui génère une instance de labyrinthe simple (à une entrée et une sortie).
-1. écrire un premier programme qui résolve une instance de labyrinthe simple.
+1. écrire un premier programme qui résolve une instance de labyrinthe simple. Le labyrinthe sera lu depuis un fichier texte en utilisant des appels systèmes (`read` par exemple).
 2. écrire une deuxième méthode de résolution de labyrinthe utilisant des threads pour la résolution de labyrinthe.
     * écrire une première version sans limite du nombre de threads
     * écrire une deuxième version qui devra limiter le nombre de threads à utiliser.
@@ -32,11 +32,11 @@ Il est possible de se mettre par trois, mais dans ce cas, la partie bonus devien
 
 ### Date de rendu
 
-Le travail est à rendre pour le dimanche 2 Avril à 23h55 sur Eureka.
+Le travail est à rendre pour le lundi 1 Avril 2025 à 23h55 sur Eureka.
 
 ### Travail à rendre
 
-Vous devrez rendre une archive contant le code commenté.
+Vous devrez rendre une archive contant le code commenté ainsi qu'un Makefile.
 Veillez à être précis dans la documentation de votre code.
 Essayez le plus possible de donner des noms de variables et de fonctions correspondant aux tâches qu'elles servent à réaliser.
 Vous devrez également présenter votre travail lors d'une séance de TP en expliquant les différents algorithmes et concepts implémentés.
